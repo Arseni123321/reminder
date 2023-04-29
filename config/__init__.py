@@ -1,0 +1,1 @@
+from bots.ReminderBot.config.config_reader import load_congig
